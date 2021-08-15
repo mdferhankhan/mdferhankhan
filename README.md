@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, This Md Ferhan Khan 👋
 
-<!--
-**mdferhankhan/mdferhankhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ChatBot Using API
+- 🌱 I’m currently learning Android development & DSA etc.
+- 👯 I’m looking to collaborate on Android development projects & Software development projects.
+- 🤔 I’m looking for help with Internship.
+- 💬 Ask me about Java, Android development, Python, Sql
+- 📫 How to reach me: thepherhan403@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I am a poetry & Shayri writer
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=mdferhankhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
