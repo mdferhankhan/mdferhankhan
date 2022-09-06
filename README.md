@@ -1,6 +1,6 @@
 ### Hi there, This Md Ferhan Khan 👋
 
-- 🔭 I’m currently working on ChatBot Using API
+- 🔭 I’m currently working on Software Engineering.
 - 🌱 I’m currently learning Android development & DSA etc.
 - 👯 I’m looking to collaborate on Android development projects & Software development projects.
 - 🤔 I’m looking for help with Internship.
